@@ -1,0 +1,8 @@
+---
+title: "Test for Git"
+author: "Courtney Carothers"
+date: "5/17/2018"
+output: html_document
+---
+
+This is a new Rmd file for testing if I can load it into git repository. 
